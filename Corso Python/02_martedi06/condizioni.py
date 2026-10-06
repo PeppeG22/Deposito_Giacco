@@ -30,5 +30,21 @@ else: #esegue se le condizioni dell'if esterno sono false
 #--------------------------------------------------------------
 
 
+# Un'altra famiglia di condizioni è ''match''
 
+# - esempio 
 
+comando = input("Inserisci un comando: ")
+
+match comando:
+    case "avvia": #caso 1 
+        print("Il sistema si sta avviando...")
+   
+    case "arresta": #caso 2
+        print("Il sistema si sta arrestando...")
+    
+    case "riavvia": #caso 3
+        print("Il sistema si sta riavviando...")
+    
+    case _: #default, caso in cui nessuno dei precedenti è stato soddisfatto
+        print("Comando non riconosciuto.")

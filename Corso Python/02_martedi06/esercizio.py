@@ -176,3 +176,4 @@ elif crud == 3: #SE ABBIAMO SCELTO IL NUMERO 3 - ELIMINA------------------------
 
 else: #se l'azione non è valida
     print("Azione non valida") #stampo un messaggio
+    

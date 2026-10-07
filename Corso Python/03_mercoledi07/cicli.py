@@ -1,4 +1,4 @@
-#Lezione: Ciclo While --->
+#Ciclo While --->
 
 #ESEMPIO 1 
 

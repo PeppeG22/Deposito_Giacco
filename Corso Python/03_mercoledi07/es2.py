@@ -7,9 +7,9 @@
 #se il numero è pari e "Dispari" se il numero è dispari
 
 
-num = int(input('Inserisci un numero: '))
+num1 = int(input('Inserisci un numero: '))
 
-if num % 2 == 0:  #se il resto della divisione per 2 è uguale a 0
+if num1 % 2 == 0:  #se il resto della divisione per 2 è uguale a 0
     print('Pari')  #allora il numero è pari
 
 else:  #se la condizione precedente non è vera
@@ -25,14 +25,14 @@ else:  #se la condizione precedente non è vera
 
 while True:  #creiamo un ciclo infinito per poter ripetere il programma
 
-    num = int(input('Inserisci un numero intero positivo: '))
+    num2 = int(input('Inserisci un numero intero positivo: '))
 
-    for i in range(num, -1, -1):  #partiamo dal numero inserito e arriviamo fino a 0
-        print(i)
+    for i2 in range(num2, -1, -1):  #partiamo dal numero inserito e arriviamo fino a 0
+        print(i2)
 
-    scelta = input('Vuoi ripetere? si/no: ')
+    scelta2 = input('Vuoi ripetere? si/no: ')
 
-    if scelta.lower() == 'no':  #se l'utente scrive no usciamo dal ciclo
+    if scelta2.lower() == 'no':  #se l'utente scrive no usciamo dal ciclo
         break
 
 
@@ -42,23 +42,23 @@ while True:  #creiamo un ciclo infinito per poter ripetere il programma
 #e stampa il quadrato di ciascun numero nella lista.
 
 
-lista = []  #creiamo una lista vuota
+lista3 = []  #creiamo una lista vuota
 
-quantita = int(input('Quanti numeri vuoi inserire nella lista? '))
-
-
-for i in range(quantita):  #ripetiamo l'inserimento per il numero di volte scelto
-
-    num = int(input('Inserisci un numero: '))
-
-    lista.append(num)  #aggiungiamo il numero alla lista
+quantita3 = int(input('Quanti numeri vuoi inserire nella lista? '))
 
 
-for num in lista:  #prendiamo uno alla volta tutti i numeri presenti nella lista
+for i3 in range(quantita3):  #ripetiamo l'inserimento per il numero di volte scelto
 
-    quadrato = num * num  #calcoliamo il quadrato del numero
+    num3 = int(input('Inserisci un numero: '))
 
-    print('Il quadrato di', num, 'è', quadrato)
+    lista3.append(num3)  #aggiungiamo il numero alla lista
+
+
+for num3 in lista3:  #prendiamo uno alla volta tutti i numeri presenti nella lista
+
+    quadrato3 = num3 * num3  #calcoliamo il quadrato del numero
+
+    print('Il quadrato di', num3, 'è', quadrato3)
 
 
 
@@ -72,42 +72,42 @@ for num in lista:  #prendiamo uno alla volta tutti i numeri presenti nella lista
 #   altrimenti stampare il numero massimo trovato e il numero di elementi nella lista.
 
 
-lista = []  #creiamo una lista vuota
+lista4 = []  #creiamo una lista vuota
 
-quantita = int(input('Quanti numeri vuoi inserire nella lista? '))
-
-
-for i in range(quantita):  #facciamo inserire i numeri all'utente
-
-    num = int(input('Inserisci un numero: '))
-
-    lista.append(num)  #aggiungiamo ogni numero alla lista
+quantita4 = int(input('Quanti numeri vuoi inserire nella lista? '))
 
 
-if len(lista) == 0:  #controlliamo se la lista è vuota
+for i4 in range(quantita4):  #facciamo inserire i numeri all'utente
+
+    num4 = int(input('Inserisci un numero: '))
+
+    lista4.append(num4)  #aggiungiamo ogni numero alla lista
+
+
+if len(lista4) == 0:  #controlliamo se la lista è vuota
 
     print('Lista Vuota')
 
 else:
 
-    massimo = lista[0]  #consideriamo inizialmente il primo numero come massimo
+    massimo4 = lista4[0]  #consideriamo inizialmente il primo numero come massimo
 
 
-    for num in lista:  #controlliamo uno alla volta tutti i numeri della lista
+    for num4 in lista4:  #controlliamo uno alla volta tutti i numeri della lista
 
-        if num > massimo:  #se troviamo un numero maggiore del massimo
+        if num4 > massimo4:  #se troviamo un numero maggiore del massimo
 
-            massimo = num  #il nuovo numero diventa il massimo
-
-
-    contatore = 0  #inizializziamo il contatore degli elementi
+            massimo4 = num4  #il nuovo numero diventa il massimo
 
 
-    while contatore < len(lista):  #continuiamo finché non arriviamo alla fine della lista
-
-        contatore += 1  #aumentiamo il contatore di 1 per ogni elemento
+    contatore4 = 0  #inizializziamo il contatore degli elementi
 
 
-    print('Il numero massimo è:', massimo)
+    while contatore4 < len(lista4):  #continuiamo finché non arriviamo alla fine della lista
 
-    print('I numeri presenti nella lista sono:', contatore)
+        contatore4 += 1  #aumentiamo il contatore di 1 per ogni elemento
+
+
+    print('Il numero massimo è:', massimo4)
+
+    print('I numeri presenti nella lista sono:', contatore4)

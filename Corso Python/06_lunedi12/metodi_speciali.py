@@ -94,7 +94,7 @@ print(m1(10))  #stampa 30
 # __getitem__() -> permette di accedere agli elementi con [indice].
 # __setitem__() -> permette di modificare elementi con [indice].
 # __contains__() -> definisce il comportamento dell'operatore in.
-
+# ---- ANALIZZARE MEGLIO ATTRIBUTES ????
 
 # ============================================================
 #                       RIEPILOGO

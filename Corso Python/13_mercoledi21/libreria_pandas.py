@@ -23,6 +23,8 @@ Possiamo creare un DataFrame attraverso un dizionario:
 - Le chiavi rappresentano i nomi delle colonne.
 - I valori rappresentano i dati contenuti nelle colonne.
 
+Il dataframe è modificabile e riempibile grazie al richiamo attraverso gli indici, chiave -> valore.
+
 2. SERIES
 
 La Series è una struttura dati monodimensionale

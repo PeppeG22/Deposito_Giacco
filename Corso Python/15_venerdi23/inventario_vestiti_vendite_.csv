@@ -1,0 +1,95 @@
+ID_Articolo,Marca,Categoria,Colore,Taglia,Prezzo_EUR,Vendite
+V0001,Nike,pantalone,Nero,M,24.99,12.0
+V0002,Adidas,magliette,Grigio,L,39.9,19.0
+V0003,Levi's,magliette,Blu,32,69.9,26.0
+V0004,Puma,scarpe,Bianco,42,59.99,33.0
+V0005,Zara,magliette,Verde,M,29.95,40.0
+V0008,Calvin Klein,magliette,Nero,M,19.9,61.0
+V0009,The North Face,felpe,Blu navy,L,89.0,68.0
+V0010,Vans,scarpe,A scacchi,42,65.0,75.0
+V0011,Gucci,pantalone,Marrone,95,220.0,82.0
+V0012,Uniqlo,magliette,Crema,M,39.9,89.0
+V0013,New Balance,scarpe,Grigio,43,110.0,96.0
+V0015,Tommy Hilfiger,magliette,Azzurro,M,79.9,21.0
+V0016,Decathlon,magliette,Nero,L,14.99,28.0
+V0017,Pull&Bear,magliette,Bianco,M,9.99,50.0
+V0018,Timberland,scarpe,Marrone,42,149.0,42.0
+V0020,Lacoste,pantalone,Blu navy,L,89.9,56.0
+V0021,Nike,magliette,Nero,M,44.99,63.0
+V0022,Adidas,magliette,Bianco,L,27.99,70.0
+V0023,Levi's,magliette,Blu,M,89.9,77.0
+V0024,Zara,magliette,Bianco,M,35.95,84.0
+V0026,Puma,scarpe,Nero,43,54.99,98.0
+V0027,New Balance,scarpe,Grigio/Bianco,42,99.99,16.0
+V0029,The North Face,pantalone,Blu navy,L,160.0,30.0
+V0030,Converse,scarpe,Rosso,41,79.9,37.0
+V0031,Calvin Klein,magliette,Bianco,42-46,12.9,44.0
+V0032,Tommy Hilfiger,magliette,Grigio,L,89.9,51.0
+V0033,Carhartt WIP,magliette,Marrone,32,109.0,58.0
+V0034,Bershka,magliette,Nero,M,25.99,65.0
+V0035,Pull&Bear,magliette,Cachi,M,25.99,72.0
+V0036,Lacoste,magliette,Bordeaux,L,99.0,79.0
+V0037,Timberland,scarpe,Marrone,42,129.0,86.0
+V0038,Decathlon,pantalone,Azzurro,M,16.99,93.0
+V0039,Gucci,magliette,Nero,Unica,350.0,100.0
+V0040,Nike,magliette,Nero,Unica,49.99,18.0
+V0041,Adidas,magliette,Bianco,L,27.99,25.0
+V0042,Zara,magliette,Bianco,M,35.95,32.0
+V0043,H&M,magliette,Grigio chiaro,M,24.99,39.0
+V0044,Vans,scarpe,Nero/Bianco,42,64.9,46.0
+V0046,The North Face,pantalone,Nero,Unica,29.0,60.0
+V0047,Puma,magliette,Blu navy,L,64.99,67.0
+V0048,Levi's,magliette,Nero,32,74.9,74.0
+V0049,Nike,magliette,Nero,M,24.99,81.0
+V0050,Adidas,magliette,Grigio,L,39.9,88.0
+V0051,Zara,magliette,Verde,M,29.95,95.0
+V0052,New Balance,scarpe,Grigio,43,110.0,13.0
+V0053,Nike,magliette,Nero,M,44.99,20.0
+V0054,Nike,pantalone,Nero,M,24.99,27.0
+V0055,Puma,scarpe,Bianco,42,59.99,34.0
+V0056,Adidas,magliette,Bianco,L,27.99,41.0
+V0057,Fila,magliette,Rosso,S,18.99,48.0
+V0058,Reebok,scarpe,Nero,44,59.99,55.0
+V0059,Zara,magliette,Nero,M,39.95,62.0
+V0060,H&M,magliette,Crema,XS,14.99,69.0
+V0061,Nike,magliette,Verde,L,74.99,76.0
+V0062,Adidas,magliette,Blu,Unica,22.99,83.0
+V0063,Levi's,pantalone,Blu scuro,30,79.9,90.0
+V0065,Converse,scarpe,Bianco,38,84.9,15.0
+V0066,Uniqlo,magliette,Nero,S,29.9,22.0
+V0067,Tommy Hilfiger,magliette,Azzurro/Bianco,L,84.9,29.0
+V0068,Decathlon,magliette,Nero,M,19.99,36.0
+V0069,Bershka,magliette,Grigio,S,32.99,43.0
+V0070,Vans,scarpe,Nero,40,69.9,50.0
+V0071,Calvin Klein,magliette,Nero,75B,34.9,57.0
+V0072,Calvin Klein,pantalone,Grigio,S,16.9,64.0
+V0073,The North Face,magliette,Nero,M,220.0,71.0
+V0074,Carhartt WIP,magliette,Marrone,L,139.0,78.0
+V0075,Pull&Bear,magliette,Blu/Bianco,M,22.99,85.0
+V0076,Lacoste,magliette,Verde,S,95.0,92.0
+V0077,Timberland,scarpe,Marrone,39,89.0,99.0
+V0078,Gucci,magliette,Rosso/Verde,Unica,390.0,17.0
+V0079,Nike,magliette,Grigio,XL,64.99,24.0
+V0080,Adidas,pantalone,Blu navy,S,44.99,31.0
+V0081,Zara,magliette,Verde salvia,M,49.95,38.0
+V0082,H&M,magliette,Beige,S,24.99,45.0
+V0083,Reebok,scarpe,Bianco,41,64.99,52.0
+V0084,Fila,magliette,Blu,M,39.99,59.0
+V0085,Levi's,magliette,Azzurro,28,49.9,66.0
+V0086,Puma,scarpe,Nero,42,24.99,73.0
+V0087,Uniqlo,magliette,Bianco,L,39.9,80.0
+V0088,Decathlon,magliette,Grigio,XL,39.99,87.0
+V0090,Vans,magliette,Verde,Unica,45.0,12.0
+V0091,Tommy Hilfiger,magliette,Blu navy,M,99.9,19.0
+V0092,The North Face,magliette,Nero,L,35.0,26.0
+V0093,Carhartt WIP,magliette,Sabbia,M,129.0,33.0
+V0094,Pull&Bear,magliette,Nero,L,35.99,40.0
+V0095,Lacoste,magliette,Bianco,Unica,55.0,47.0
+V0096,Timberland,scarpe,Nero,43,159.0,54.0
+V0097,Zara,magliette,Nero,S,59.95,61.0
+V0098,H&M,magliette,Rosa,L,29.99,68.0
+V0099,Nike,magliette,Nero,Unica,39.99,75.0
+V0100,Adidas,magliette,Giallo,M,89.99,82.0
+V0108,H&M,magliette,Beige,S,24.99,45.0
+V0109,Nike,magliette,Nero,M,24.99,81.0
+V0110,Converse,scarpe,Bianco,38,84.9,15.0

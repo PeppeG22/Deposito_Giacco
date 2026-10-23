@@ -1,0 +1,7 @@
+Abbiamo sviluppato un programma dinamico e flessibile, dotato di un menu interattivo che permette di caricare e analizzare file CSV diversi, senza essere vincolato a un unico dataset. Lo scopo principale del programma è proprio quello di poter cambiare il file CSV in qualsiasi momento e riutilizzare le funzionalità di analisi sul nuovo insieme di dati, adattandosi così a contesti ed esigenze differenti.
+
+Attraverso diverse funzioni dedicate, il programma consente di esplorare il dataset, individuare e correggere eventuali anomalie, gestire i dati duplicati e mancanti e organizzare le informazioni per ottenere risultati più affidabili.
+
+La struttura modulare permette inoltre di ampliare il programma aggiungendo nuove funzionalità e le relative opzioni al menu, senza dover riprogettare l'intera applicazione. In questo modo, il programma può evolversi nel tempo e adattarsi a nuove necessità di analisi.
+
+Infine, grazie all'utilizzo di grafici a barre e tabelle pivot, è possibile visualizzare e confrontare le prestazioni dell'azienda, individuando, ad esempio, i prodotti più venduti in relazione alla categoria e alla marca. Questo consente di ottenere una visione più chiara dell'andamento delle vendite e di ricavare informazioni utili per valutare i risultati commerciali.

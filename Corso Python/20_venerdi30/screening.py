@@ -126,7 +126,6 @@ print("Medie training standardizzato:", X_train_std.mean(axis=0).round(2))
 print("Deviazioni std training:", X_train_std.std(axis=0).round(2))
 print("Medie validation standardizzata:", X_val_std.mean(axis=0).round(2))
 
-# La validation non ha obbligatoriamente media 0:
 # le medie e le deviazioni standard sono state imparate sul training.
 knn_std = KNeighborsClassifier(n_neighbors=5)
 knn_std.fit(X_train_std, y_train)
